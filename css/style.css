@@ -1,0 +1,62 @@
+.aga{
+    background:orange;
+    height:300px;
+    width:300px;
+}
+.lol{
+height:500px;
+    
+}
+.height{
+    height:100px
+}
+.myimg:hover{
+    opacity: 0.95;
+}
+.kgb{
+    z-index:-1;
+    width:100%;
+}
+.namana{
+    z-index:5;
+}
+.normalimg{
+    background-size:70%
+}
+.main{
+    height:500px;
+    background-color:#175e3f;
+    background-size:cover;
+    color:#1c8758;
+}
+.main h1{
+    font-size:1000%;
+    font-family:Roboto;
+    margin-top:10%;
+}
+.main h4{
+    font-size:200%;
+    font-family:Roboto;
+    margin-top:23%;
+}
+.main1{
+   
+    background-color:#1c8758;
+    background-size:cover;
+    color:#175e3f;
+}
+.main1 h1{
+    font-size:1000%;
+    font-family:Roboto;
+}
+.parallax-container {
+      height: 300px;
+    }
+.imgg{
+    height:250px;
+    width:50px
+}
+.card{
+width:400px;
+    color:green
+}
